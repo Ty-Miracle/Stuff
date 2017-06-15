@@ -5,6 +5,6 @@ Built for short run trading.
 - record keeping
 
 future add-ons
--
+-dates on trades
 -
 -
