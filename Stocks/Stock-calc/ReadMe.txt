@@ -1,5 +1,5 @@
 This is meant to expedite the process of figuring out which individual stocks to pick from a group of selected stocks.
-Built for short run trading.
+Built for short run/day trading.
 - indiv/group stock comparison
 - balance_to_stock converter
 - record keeping
